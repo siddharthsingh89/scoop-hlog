@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "Log for humans: append, tail and grep your hlog.dev log from the terminal",
     "homepage": "https://hlog.dev",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/siddharthsingh89/hlog-cli/releases/download/v0.4.0/hlog-x86_64-pc-windows-msvc.zip",
-            "hash": "9788ee3885f07a1038b490d96920e9d584f74f79a2e3faf40fad2cba06d140eb"
+            "url": "https://github.com/siddharthsingh89/hlog-cli/releases/download/v0.4.1/hlog-x86_64-pc-windows-msvc.zip",
+            "hash": "048620e415251e0f73c82b8ef03c49522b07daa7cf20233023cded867d6e2f09"
         }
     },
     "bin": "hlog.exe",
